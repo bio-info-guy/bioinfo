@@ -1,0 +1,2 @@
+#this is my first file in github
+#my name is bioinfoguy, and today is 17/10/2016
